@@ -1,5 +1,3 @@
-
-
 import { format } from 'date-fns'
 import Header from "../_components/Header";
 import { ptBR } from "date-fns/locale";
